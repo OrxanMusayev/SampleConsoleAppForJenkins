@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EX4o8shQNzadka+scBhDHvtkXMkKd1KeJG2p0mX47H7nbJPbZwwCDpjHDmU+tAJ870CZrOWi2YuEiTPIQE3ppg==",
+  "dgSpecHash": "kLJlQjvNqfkmi7h1pj5bLqkEdWbECLn+v0EaEOYl37tU+3u6KmwhVj9LIrIaVbroBaAF8LR+NGprHpxJNZhfmg==",
   "success": true,
-  "projectFilePath": "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/SampleProjectForJenkins.csproj",
+  "projectFilePath": "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/DotNetSample/SampleProjectForJenkins/SampleProjectForJenkins.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

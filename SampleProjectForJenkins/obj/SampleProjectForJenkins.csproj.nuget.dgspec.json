@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/SampleProjectForJenkins.csproj": {}
+    "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/DotNetSample/SampleProjectForJenkins/SampleProjectForJenkins.csproj": {}
   },
   "projects": {
-    "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/SampleProjectForJenkins.csproj": {
+    "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/DotNetSample/SampleProjectForJenkins/SampleProjectForJenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/SampleProjectForJenkins.csproj",
+        "projectUniqueName": "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/DotNetSample/SampleProjectForJenkins/SampleProjectForJenkins.csproj",
         "projectName": "SampleProjectForJenkins",
-        "projectPath": "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/SampleProjectForJenkins.csproj",
+        "projectPath": "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/DotNetSample/SampleProjectForJenkins/SampleProjectForJenkins.csproj",
         "packagesPath": "/Users/orxanmusayev/.nuget/packages/",
-        "outputPath": "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/obj/",
+        "outputPath": "/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/DotNetSample/SampleProjectForJenkins/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/orxanmusayev/.nuget/NuGet/NuGet.Config"

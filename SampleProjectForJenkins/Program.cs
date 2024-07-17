@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+for (var x=0; x < 10; x++)
+{
+    Console.WriteLine("Hello, World!");
+}

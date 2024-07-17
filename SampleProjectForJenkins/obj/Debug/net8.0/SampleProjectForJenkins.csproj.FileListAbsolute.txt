@@ -1,0 +1,14 @@
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/bin/Debug/net8.0/SampleProjectForJenkins
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/bin/Debug/net8.0/SampleProjectForJenkins.deps.json
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/bin/Debug/net8.0/SampleProjectForJenkins.runtimeconfig.json
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/bin/Debug/net8.0/SampleProjectForJenkins.dll
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/bin/Debug/net8.0/SampleProjectForJenkins.pdb
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/obj/Debug/net8.0/SampleProjectForJenkins.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/obj/Debug/net8.0/SampleProjectForJenkins.AssemblyInfoInputs.cache
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/obj/Debug/net8.0/SampleProjectForJenkins.AssemblyInfo.cs
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/obj/Debug/net8.0/SampleProjectForJenkins.csproj.CoreCompileInputs.cache
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/obj/Debug/net8.0/SampleProjectForJenkins.dll
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/obj/Debug/net8.0/refint/SampleProjectForJenkins.dll
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/obj/Debug/net8.0/SampleProjectForJenkins.pdb
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/obj/Debug/net8.0/SampleProjectForJenkins.genruntimeconfig.cache
+/Users/orxanmusayev/JenkinsLearn/SampleProjectForJenkins/obj/Debug/net8.0/ref/SampleProjectForJenkins.dll
